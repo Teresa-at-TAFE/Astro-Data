@@ -1,0 +1,42 @@
+D:\TAFE\Cert IV Info Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\bin\Debug\net8.0-windows\Astronomical_Processing.exe
+D:\TAFE\Cert IV Info Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\bin\Debug\net8.0-windows\Astronomical_Processing.deps.json
+D:\TAFE\Cert IV Info Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\bin\Debug\net8.0-windows\Astronomical_Processing.runtimeconfig.json
+D:\TAFE\Cert IV Info Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\bin\Debug\net8.0-windows\Astronomical_Processing.dll
+D:\TAFE\Cert IV Info Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\bin\Debug\net8.0-windows\Astronomical_Processing.pdb
+D:\TAFE\Cert IV Info Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\TAFE\Cert IV Info Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\obj\Debug\net8.0-windows\App.g.cs
+D:\TAFE\Cert IV Info Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\obj\Debug\net8.0-windows\Astronomical_Processing_MarkupCompile.cache
+D:\TAFE\Cert IV Info Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\obj\Debug\net8.0-windows\Astronomical_Processing_MarkupCompile.lref
+D:\TAFE\Cert IV Info Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\obj\Debug\net8.0-windows\MainWindow.baml
+D:\TAFE\Cert IV Info Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\obj\Debug\net8.0-windows\Astronomical_Processing.g.resources
+D:\TAFE\Cert IV Info Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\obj\Debug\net8.0-windows\Astronomical_Processing.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAFE\Cert IV Info Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\obj\Debug\net8.0-windows\Astronomical_Processing.AssemblyInfoInputs.cache
+D:\TAFE\Cert IV Info Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\obj\Debug\net8.0-windows\Astronomical_Processing.AssemblyInfo.cs
+D:\TAFE\Cert IV Info Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\obj\Debug\net8.0-windows\Astronomical_Processing.csproj.CoreCompileInputs.cache
+D:\TAFE\Cert IV Info Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\obj\Debug\net8.0-windows\Astronomical_Processing.dll
+D:\TAFE\Cert IV Info Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\obj\Debug\net8.0-windows\refint\Astronomical_Processing.dll
+D:\TAFE\Cert IV Info Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\obj\Debug\net8.0-windows\Astronomical_Processing.pdb
+D:\TAFE\Cert IV Info Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\obj\Debug\net8.0-windows\Astronomical_Processing.genruntimeconfig.cache
+D:\TAFE\Cert IV Info Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\obj\Debug\net8.0-windows\ref\Astronomical_Processing.dll
+D:\TAFE\Cert IV Info Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\obj\Debug\net8.0-windows\Astronomical_Processing.sourcelink.json
+E:\Cert_IV_Info_Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\bin\Debug\net8.0-windows\Astronomical_Processing.exe
+E:\Cert_IV_Info_Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\bin\Debug\net8.0-windows\Astronomical_Processing.deps.json
+E:\Cert_IV_Info_Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\bin\Debug\net8.0-windows\Astronomical_Processing.runtimeconfig.json
+E:\Cert_IV_Info_Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\bin\Debug\net8.0-windows\Astronomical_Processing.dll
+E:\Cert_IV_Info_Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\bin\Debug\net8.0-windows\Astronomical_Processing.pdb
+E:\Cert_IV_Info_Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\Cert_IV_Info_Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\obj\Debug\net8.0-windows\App.g.cs
+E:\Cert_IV_Info_Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\obj\Debug\net8.0-windows\Astronomical_Processing_MarkupCompile.cache
+E:\Cert_IV_Info_Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\obj\Debug\net8.0-windows\Astronomical_Processing_MarkupCompile.lref
+E:\Cert_IV_Info_Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\obj\Debug\net8.0-windows\MainWindow.baml
+E:\Cert_IV_Info_Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\obj\Debug\net8.0-windows\Astronomical_Processing.g.resources
+E:\Cert_IV_Info_Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\obj\Debug\net8.0-windows\Astronomical_Processing.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cert_IV_Info_Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\obj\Debug\net8.0-windows\Astronomical_Processing.AssemblyInfoInputs.cache
+E:\Cert_IV_Info_Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\obj\Debug\net8.0-windows\Astronomical_Processing.AssemblyInfo.cs
+E:\Cert_IV_Info_Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\obj\Debug\net8.0-windows\Astronomical_Processing.csproj.CoreCompileInputs.cache
+E:\Cert_IV_Info_Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\obj\Debug\net8.0-windows\Astronomical_Processing.sourcelink.json
+E:\Cert_IV_Info_Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\obj\Debug\net8.0-windows\Astronomical_Processing.dll
+E:\Cert_IV_Info_Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\obj\Debug\net8.0-windows\refint\Astronomical_Processing.dll
+E:\Cert_IV_Info_Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\obj\Debug\net8.0-windows\Astronomical_Processing.pdb
+E:\Cert_IV_Info_Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\obj\Debug\net8.0-windows\Astronomical_Processing.genruntimeconfig.cache
+E:\Cert_IV_Info_Tech\C#\AT2 Due Week 8-15\Coding\A_P\Astronomical_Processing\obj\Debug\net8.0-windows\ref\Astronomical_Processing.dll
